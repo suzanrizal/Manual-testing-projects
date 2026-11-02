@@ -177,13 +177,6 @@ The repository can include the following testing artifacts:
 - Analytical Thinking and Attention to Detail
 - Software Testing Life Cycle (STLC)
 
-## 👨‍💻 About Me
-
-I am a BCA graduate passionate about Software Quality Assurance and Testing. I enjoy exploring applications, understanding how they work, identifying issues, and helping improve software quality and user experience.
-
-This project is part of my journey toward becoming a QA Engineer. I am continuously developing my skills in manual testing, API testing, database testing, and test automation.
-
-**I am open to QA Intern and Junior QA Engineer opportunities.**
 
 ## 📌 Disclaimer
 
